@@ -19,3 +19,16 @@ Requirements
 
 
 MAKE SHURE TO INSTALL THE NECESSERY LIBRARYS
+
+
+OANDA Account & API Setup
+
+    -Create a free demo account at the OANDA website.
+
+    -Log in to the “My Account” dashboard.
+    
+    -Go to Manage API Access → generate API token.
+    
+    -Copy your Account ID(123-123-12345678-123) from the account overview.
+    
+    -Add both to your config.py:
